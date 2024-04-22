@@ -15,4 +15,4 @@ command to generate data viz using matplotlib in python: python viz.py or python
 2) run the react app to display the visualization on the data: npm start
 
 
-Sample results stored in images folder for reference:
+Sample results are added as .png images in main project directory for your reference
