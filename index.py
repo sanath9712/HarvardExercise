@@ -3,7 +3,6 @@ import pandas as pd
 
 
 def load_and_save_umap_coordinates(filepath):
-    # Load the .h5ad file
     adata = sc.read_h5ad(filepath)
 
     # Check if UMAP coordinates exist in file
